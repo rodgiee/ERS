@@ -1,5 +1,5 @@
-# Egyptian Rat Screw pygame
-**What is Egyptian Rat Screw?**: 
+# Egyptian War pygame
+**What is ERS?**: 
 
 ERS is a face-paced card game where players will race to slap cards in the middle to match a pattern!
 
